@@ -1,7 +1,6 @@
 "use server";
 
 import { client, writeClient } from "@/sanity/lib/client";
-
 interface SubscriptionData {
   email: string;
   source?: string;

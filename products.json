@@ -1,0 +1,135 @@
+[
+  {
+    "_type": "product", 
+    "name": "Flagship 5G Smartphone",
+    "price": 899.99,
+    "description": "High-end 5G smartphone with triple camera, 120Hz display, and all-day battery life.",
+    "imageFilename": "product_1.png"
+  },
+  {
+    "_type": "product", 
+    "name": "Ultra-Portable Laptop (13-inch)",
+    "price": 1199.00,
+    "description": "Lightweight and powerful laptop featuring an i7 processor and 16GB RAM for productivity.",
+    "imageFilename": "product_2.jpg"
+  },
+  {
+    "_type": "product", 
+    "name": "Smart Inverter Washing Machine (8kg)",
+    "price": 649.50,
+    "description": "Energy-efficient washing machine with smart diagnosis and quiet inverter technology.",
+    "imageFilename": "product_3.png"
+  },
+  {
+    "_type": "product", 
+    "name": "High-Velocity Pedestal Fan",
+    "price": 79.99,
+    "description": "Powerful 3-speed pedestal fan with oscillating head for wide area cooling.",
+    "imageFilename": "product_4.png"
+  },
+  {
+    "_type": "product", 
+    "name": "Noise-Cancelling Wireless Headphones",
+    "price": 199.00,
+    "description": "Over-ear headphones with superior active noise cancellation and 30-hour battery.",
+    "imageFilename": "product_5.png"
+  },
+  {
+    "_type": "product", 
+    "name": "4K Ultra HD Smart TV (55-inch)",
+    "price": 799.00,
+    "description": "Vibrant 4K UHD display with built-in streaming apps and voice control support.",
+    "imageFilename": "product_6.png"
+  },
+  {
+    "_type": "product", 
+    "name": "Gaming Desktop PC (RTX 4070)",
+    "price": 1899.99,
+    "description": "Ready-to-go gaming rig with a powerful dedicated graphics card and liquid cooling.",
+    "imageFilename": "product_7.png"
+  },
+  {
+    "_type": "product", 
+    "name": "Compact Microwave Oven (700W)",
+    "price": 59.99,
+    "description": "Essential compact microwave, perfect for small apartments and quick heating.",
+    "imageFilename": "product_8.png"
+  },
+  {
+    "_type": "product", 
+    "name": "Ergonomic Wireless Mouse",
+    "price": 35.50,
+    "description": "Contoured wireless mouse for comfort and precision over long work sessions.",
+    "imageFilename": "product_9.png"
+  },
+  {
+    "_type": "product", 
+    "name": "Portable Bluetooth Speaker",
+    "price": 89.00,
+    "description": "Waterproof and rugged speaker with deep bass and 12 hours of playtime.",
+    "imageFilename": "product_10.png"
+  },
+  {
+    "_type": "product", 
+    "name": "Electric Kettle (1.7 Litre)",
+    "price": 45.00,
+    "description": "Fast-boiling electric kettle with auto-shutoff and stainless steel interior.",
+    "imageFilename": "product_11.png"
+  },
+  {
+    "_type": "product", 
+    "name": "Smart Home Hub",
+    "price": 149.00,
+    "description": "Central device to control all smart lights, locks, and sensors in your home.",
+    "imageFilename": "product_12.png"
+  },
+  {
+    "_type": "product", 
+    "name": "Mesh Wi-Fi System (3-Pack)",
+    "price": 229.00,
+    "description": "Eliminate dead zones with whole-home coverage and speeds up to 1.8 Gbps.",
+    "imageFilename": "product_13.png"
+  },
+  {
+    "_type": "product", 
+    "name": "Digital Camera (Mirrorless)",
+    "price": 999.00,
+    "description": "Compact mirrorless camera for high-quality photos and 4K video recording.",
+    "imageFilename": "product_14.png"
+  },
+  {
+    "_type": "product", 
+    "name": "Air Purifier (HEPA Filter)",
+    "price": 185.00,
+    "description": "Removes 99.97% of airborne particles, essential for allergy sufferers.",
+    "imageFilename": "product_15.png"
+  },
+  {
+    "_type": "product", 
+    "name": "Gaming Keyboard (Mechanical)",
+    "price": 119.99,
+    "description": "Tactile mechanical keyboard with customizable RGB backlighting and durable keys.",
+    "imageFilename": "product_16.png"
+  },
+  {
+    "_type": "product", 
+    "name": "Cordless Stick Vacuum",
+    "price": 299.00,
+    "description": "Lightweight, powerful cordless vacuum with multiple attachments for floor and ceiling cleaning.",
+    "imageFilename": "product_17.png"
+  },
+  {
+    "_type": "product", 
+    "name": "Portable Power Bank (20000mAh)",
+    "price": 49.00,
+    "description": "High-capacity power bank to charge your phone and tablet multiple times on the go.",
+    "imageFilename": "product_18.png"
+  },
+  {
+    "_type": "product", 
+    "name": "Wireless Charging Pad (Dual)",
+    "price": 39.99,
+    "description": "Dual wireless charging pad capable of powering up two devices simultaneously.",
+    "imageFilename": "product_19.png"
+}
+]

@@ -48,7 +48,12 @@ const Shop = ({ categories, brands }: Props) => {
         && price >= $minPrice && price <= $maxPrice
       ] 
       | order(name asc) {
-        ...,"categories": categories[]->title
+       _id,
+      name,
+      price,
+      description,
+      "slug": slug.current,
+      "imageUrl": images[0].asset->url,"categories": categories[]->title
       }
     `;
 

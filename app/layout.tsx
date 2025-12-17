@@ -30,8 +30,8 @@ const opensans = localFont({
 export const metadata: Metadata = {
   metadataBase: new URL("https://shopcartpro.reactbd.org"),
   title: {
-    template: "%s | ShopCart - Premium Online Shopping",
-    default: "ShopCart - Your Trusted Online Shopping Destination",
+    template: "%s | Uptora Electronics",
+    default: "Uptora - Your Trusted Online Shopping Destination",
   },
   description:
     "Discover amazing products at ShopCart, your trusted online shopping destination for quality items and exceptional customer service. Shop electronics, fashion, home goods and more with fast delivery.",
@@ -47,9 +47,9 @@ export const metadata: Metadata = {
     "discounts",
     "ShopCart",
   ],
-  authors: [{ name: "ShopCart" }],
-  creator: "ShopCart",
-  publisher: "ShopCart",
+  authors: [{ name: "Uptora" }],
+  creator: "Uptora",
+  publisher: "Uptora",
   formatDetection: {
     email: false,
     address: false,
@@ -59,8 +59,8 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://shopcartpro.reactbd.org",
-    siteName: "ShopCart",
-    title: "ShopCart - Your Trusted Online Shopping Destination",
+    siteName: "Uptora",
+    title: "Uptora - Your Trusted Electronics Appliances",
     description:
       "Discover amazing products at ShopCart, your trusted online shopping destination for quality items and exceptional customer service.",
     images: [
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "ShopCart - Your Trusted Online Shopping Destination",
+    title: "Uptora - Your Trusted Electronics Appliances",
     description:
       "Discover amazing products at ShopCart, your trusted online shopping destination for quality items and exceptional customer service.",
     images: ["/og-image.jpg"],

@@ -40,7 +40,7 @@ export const userAccountData = [
   { title: "My Profile", href: "/account/profile" },
   { title: "My Orders", href: "/user/orders" },
   { title: "My Wishlist", href: "/wishlist" },
-  { title: "Shopping Cart", href: "/cart" },
+  { title: "Uptora Electronics", href: "/cart" },
   { title: "Address Book", href: "/account/addresses" },
   { title: "Payment Methods", href: "/account/payments" },
   { title: "Order History", href: "/user/orders" },

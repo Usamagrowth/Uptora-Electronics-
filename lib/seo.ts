@@ -100,7 +100,7 @@ export function generateCategoryMetadata(
           alt: title,
         },
       ],
-      siteName: "ShopCart",
+      siteName: "Uptora Electronic Store",
     },
     twitter: {
       card: "summary_large_image",

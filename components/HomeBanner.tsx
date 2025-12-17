@@ -40,7 +40,7 @@ const HomeBanner = async () => {
                     50% Off
                   </span>
                   <span className="block text-2xl font-medium text-gray-700">
-                    on Selected Headphones
+                    on Selected Gadget and Appliances
                   </span>
                 </Title>
               </div>

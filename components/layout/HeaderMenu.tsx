@@ -17,7 +17,7 @@ const HeaderMenu = () => {
           {item?.title}
           <span
             className={`absolute -bottom-0.5 left-1/2 w-0 h-0.5 bg-shop_light_green transition-all duration-300 group-hover:w-1/2 group-hover:left-0 ${
-              pathname === item?.href && "w-1/2"
+              pathname === item?.href && "w-1/2" 
             }`}
           />
           <span
