@@ -62,13 +62,13 @@ export const metadata: Metadata = {
     siteName: "Uptora",
     title: "Uptora - Your Trusted Electronics Appliances",
     description:
-      "Discover amazing products at ShopCart, your trusted online shopping destination for quality items and exceptional customer service.",
+      "Discover amazing products at Uptora, your trusted destination for quality items and exceptional customer service.",
     images: [
       {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "ShopCart Online Store",
+        alt: "Uptora Electronics Store",
       },
     ],
   },
@@ -76,9 +76,9 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Uptora - Your Trusted Electronics Appliances",
     description:
-      "Discover amazing products at ShopCart, your trusted online shopping destination for quality items and exceptional customer service.",
+      "Discover amazing products at Uptora, your trusted online shopping destination for quality items and exceptional customer service.",
     images: ["/og-image.jpg"],
-    creator: "@shopcart",
+    creator: "@Uptora",
   },
   robots: {
     index: true,
@@ -96,7 +96,7 @@ export const metadata: Metadata = {
     // Add other verification codes as needed
   },
   alternates: {
-    canonical: "https://shopcartpro.reactbd.org",
+    canonical: "https://uptoraelectronics.com",
   },
 };
 
