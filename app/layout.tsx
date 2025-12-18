@@ -28,13 +28,13 @@ const opensans = localFont({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://shopcartpro.reactbd.org"),
+  metadataBase: new URL("https://uptoraelectronics.vercel.app"),
   title: {
     template: "%s | Uptora Electronics",
-    default: "Uptora - Your Trusted Online Shopping Destination",
+    default: "Uptora - Your Trusted Electronics Shopping Destination",
   },
   description:
-    "Discover amazing products at ShopCart, your trusted online shopping destination for quality items and exceptional customer service. Shop electronics, fashion, home goods and more with fast delivery.",
+    "Discover amazing products at Uptora, your trusted electronics shopping destination for quality items and exceptional customer service. Shop electronics, fashion, home appliances and more with fast delivery.",
   keywords: [
     "online shopping",
     "e-commerce",
@@ -43,13 +43,14 @@ export const metadata: Metadata = {
     "electronics",
     "fashion",
     "home goods",
+    "appliances",
     "deals",
     "discounts",
-    "ShopCart",
+    "Uptora",
   ],
-  authors: [{ name: "Uptora" }],
-  creator: "Uptora",
-  publisher: "Uptora",
+  authors: [{ name: "Usama" }],
+  creator: "Usama",
+  publisher: "Usama",
   formatDetection: {
     email: false,
     address: false,
@@ -58,7 +59,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://shopcartpro.reactbd.org",
+    url: "https://uptoraelectronics.vercel.app",
     siteName: "Uptora",
     title: "Uptora - Your Trusted Electronics Appliances",
     description:
@@ -76,7 +77,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Uptora - Your Trusted Electronics Appliances",
     description:
-      "Discover amazing products at Uptora, your trusted online shopping destination for quality items and exceptional customer service.",
+      "Discover amazing products at Uptora, your trusted electronics shopping destination for quality items and exceptional customer service.",
     images: ["/og-image.jpg"],
     creator: "@Uptora",
   },
@@ -96,7 +97,7 @@ export const metadata: Metadata = {
     // Add other verification codes as needed
   },
   alternates: {
-    canonical: "https://uptoraelectronics.com",
+    canonical: "https://uptoraelectronics.vercel.app",
   },
 };
 
