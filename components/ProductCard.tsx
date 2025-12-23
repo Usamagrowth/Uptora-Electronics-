@@ -13,7 +13,7 @@ const ProductCard = memo(({ product }: { product: Product }) => {
   return (
     <div className="text-sm border rounded-md border-dark-blue/20 group bg-white">
       <div className="relative group overflow-hidden bg-shop_light_bg">
-        {product?.images && (
+        {product?.images && product.images[0]?.asset && (
           <Link href={`/product/${product?.slug?.current}`}>
             <img
               src={image(product.images[0]).size(900, 880).url()}
